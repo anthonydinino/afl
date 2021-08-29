@@ -1,0 +1,27 @@
+{
+    "id": "4CBD1A62",
+    "path": "C:/Users/dinin/Projects/R/afl/afl1.R",
+    "project_path": "afl1.R",
+    "type": "r_source",
+    "hash": "1474170007",
+    "contents": "",
+    "dirty": false,
+    "created": 1629898149766.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "26,53",
+        "scrollLine": "6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1630055445,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1630055445766,
+    "read_only": false,
+    "read_only_alternatives": []
+}
